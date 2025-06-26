@@ -14,27 +14,23 @@
     "contributors": [
         {
             "name": "GoodM4ven",
-            "url": "https://github.com/goodm4ven"
+            "url": "https://github.com/Sidali-Djeghbal"
         }
     ],
-    "funding": {
-        "type": "github",
-        "url": "https://github.com/sponsors/GoodM4ven"
-    },
     "scripts": {
         "lint": "eslint src/**/*.js",
         "format": "prettier --write ."
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/goodm4ven/PATCH_EXTENSION_GNOME_athan.git"
+        "url": "git+https://github.com/Sidali-Djeghbal/PATCH_EXTENSION_GNOME_athan.git"
     },
-    "author": "GoodM4ven@proton.me",
+    "author": "sidalidjeghbal@gmail.com",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/goodm4ven/PATCH_EXTENSION_GNOME_athan/issues"
+        "url": "https://github.com/Sidali-Djeghbal/PATCH_EXTENSION_GNOME_athan/issues"
     },
-    "homepage": "https://github.com/goodm4ven/PATCH_EXTENSION_GNOME_athan#readme",
+    "homepage": "https://github.com/Sidali-Djeghbal/PATCH_EXTENSION_GNOME_athan#readme",
     "devDependencies": {
         "@eslint/js": "^9.17.0",
         "eslint": "^9.17.0",
